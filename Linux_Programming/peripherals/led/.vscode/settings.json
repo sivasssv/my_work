@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "pigpio.h": "c",
+        "gpiod.h": "c"
+    },
+    "cmake.sourceDirectory": "/home/sivachunchu/Programs/peripherals/led/pigpio-master"
+}
